@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Telugu Giridhar</h1>
-<h3 align="center">Currently Pursuing My BTech</h3>
+<h3 align="center">Currently Pursuing BTech</h3>
 
 - 📫 How to reach me **telugugiridhar41@gmail.com**
 
